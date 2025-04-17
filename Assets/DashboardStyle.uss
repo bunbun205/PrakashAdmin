@@ -1,0 +1,13 @@
+.button {
+    justify-content: flex-start;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    width: 418px;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    border-bottom-left-radius: 22px;
+    margin-top: 641px;
+    height: 138px;
+}

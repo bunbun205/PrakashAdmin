@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "3154372934",
+    "firebase_url": "https://prakash-f9bf4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "prakash-f9bf4",
+    "storage_bucket": "prakash-f9bf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3154372934:android:50567603384405be619d47",
+        "android_client_info": {
+          "package_name": "com.admin.Prakash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgSO2TOOHbhl4xHMoTobrTxNPM9o6jb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3154372934:android:3d510029eed5dc0d619d47",
+        "android_client_info": {
+          "package_name": "com.vr.prakash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGgSO2TOOHbhl4xHMoTobrTxNPM9o6jb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
